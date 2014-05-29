@@ -15,3 +15,6 @@ and:
 `git push origin branch:branch` vs   
 `git push origin branch` vs   
 `git push`
+
+Trevor's edit. 5/29/14
+Pushin' it.
