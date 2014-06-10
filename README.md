@@ -11,6 +11,7 @@ Git/Github Workshop
 and:
 - handling merge conflicts
 - merge vs rebase
+- ashley is awesome
 - `git push origin HEAD:branch` vs   
 `git push origin branch:branch` vs   
 `git push origin branch` vs   
